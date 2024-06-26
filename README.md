@@ -23,6 +23,8 @@ O WhatsAppScripts TravaZap é uma ferramenta JavaScript para enviar mensagens au
 4. Cole no console 
 5. Em caso de erro de colagem: digite 'allow pasting' e depois volte ao passo 4.
 
+Caso queira adicionar novos estilos, o arquivo main.js tem a estrutura basica para isso.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para reportar bugs ou sugestões de melhorias. Pull requests são encorajados.
