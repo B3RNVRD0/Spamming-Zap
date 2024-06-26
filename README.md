@@ -1,5 +1,6 @@
-#USO EDUCATIVO
-#Aviso Importante
+# USO EDUCATIVO APENAS 
+
+# Aviso Importante
 Este código não deve ser utilizado para enviar spam real ou qualquer tipo de mensagem indesejada. Respeite as políticas de uso aceitável de plataformas e serviços online. Utilize-o apenas em ambientes controlados e para propósitos educativos.
 
 # WhatsAppScripts TravaZap
