@@ -3,11 +3,14 @@
 # Aviso Importante
 Este código não deve ser utilizado para enviar spam real ou qualquer tipo de mensagem indesejada. Respeite as políticas de uso aceitável de plataformas e serviços online. Utilize-o apenas em ambientes controlados e para propósitos educativos.
 
-# WhatsAppScripts TravaZap
+
+
+# Spamming-Zap
+
 
 ## Introdução
 
-O WhatsAppScripts TravaZap é uma ferramenta JavaScript para enviar mensagens automatizadas em conversas do WhatsApp Web. Ele permite enviar textos longos ou várias mensagens de uma só vez, facilitando a comunicação eficiente e rápida.
+O Spamming-Zap é uma ferramenta JavaScript para enviar mensagens automatizadas em conversas do WhatsApp Web. Ele permite enviar textos longos ou várias mensagens de uma só vez, facilitando a comunicação eficiente e rápida.
 
 ## Como Usar
 
@@ -46,11 +49,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 ## Important Notice
 This code should not be used to send real spam or any kind of unwanted messages. Please respect the acceptable use policies of platforms and online services. Use it only in controlled environments and for educational purposes.
 
-# WhatsAppScripts TravaZap
+# Spamming-Zap
+
 
 ## Introduction
 
-WhatsAppScripts TravaZap is a JavaScript tool for sending automated messages on WhatsApp Web conversations. It allows sending long texts or multiple messages at once, facilitating efficient and quick communication.
+Spamming-Zap is a JavaScript tool for sending automated messages on WhatsApp Web conversations. It allows sending long texts or multiple messages at once, facilitating efficient and quick communication.
 
 ## How to Use
 
