@@ -25,7 +25,7 @@ async function enviarScript(scriptText, delay = 1000) {
 
         await new Promise(resolve => setTimeout(resolve, 100));
 
-        const sendButton = main.querySelector(`[data-testid="send"]`) || main.querySelector(`[data-icon="send"]`);
+        const sendButton = main.querySelector(`[aria-label="Enviar"]`);
         sendButton.click();
 
         if (lines.indexOf(line) !== lines.length - 1) {

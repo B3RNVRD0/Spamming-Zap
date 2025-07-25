@@ -17,7 +17,7 @@ async function enviarScriptInfinito(scriptText) {
 
             await new Promise(resolve => setTimeout(resolve, 100));
 
-            const sendButton = main.querySelector(`[data-testid="send"]`) || main.querySelector(`[data-icon="send"]`);
+            const sendButton = main.querySelector(`[aria-label="Enviar"]`);
             sendButton.click();
 
             await new Promise(resolve => setTimeout(resolve, 250));
